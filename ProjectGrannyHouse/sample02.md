@@ -36,3 +36,10 @@ The hope in the boy’s eyes was vanishing.
 The family would go back to the city in a couple of hours.
 Maybe the chicken would still come. Gary tried to convince himself. 
 
+
+<p align="center">
+  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample.03"> Sample Page ...</a>   
+</p>
+
+
+
