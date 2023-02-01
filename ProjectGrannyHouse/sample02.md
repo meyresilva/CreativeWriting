@@ -38,7 +38,7 @@ Maybe the chicken would still come. Gary tried to convince himself.
 
 
 <p align="center">
-  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample.03"> Sample Page ...</a>   
+  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample03.md"> Sample Page ...</a>   
 </p>
 
 
