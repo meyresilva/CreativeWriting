@@ -4,7 +4,7 @@
 
 
 > Suddenly George flashed out of the house, 
-running through the streets to borrow a chicken from Katie’s sister. 
+running through the streets to. 
 > Grandma breathed relieved. 
 “A small chicken to walk around and pat it,” 
 she said to herself. 
