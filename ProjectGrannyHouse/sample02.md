@@ -27,7 +27,7 @@ Uncle George was an honored man.
 It could be a drawing or a paper chicken. 
 The man didn’t dare to express what he was feeling.
  He looked around afraid someone could guess his thoughts. 
-“It’s just a child’s desire,” George repeated. 
+“It’s just a child’s desire,” George repeated, trying to convince himself.
 
 
 Time was going by. It was almost time to go back home. 
