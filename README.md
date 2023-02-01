@@ -13,6 +13,3 @@ as soon as I started talking about family.
 And children always, or almost always, play this role within families. 
 
 
-<p align="center">
-  :dart: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md"> Sample Page ...</a>   
-</p>
