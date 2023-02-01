@@ -41,3 +41,8 @@ Grandma’s face was brave. Her voice was brave.
 Gary had never seen Granny speaking that way. 
 Nobody has told him about Uncle Denis or why the old woman was mad at him. 
 
+<p align="center">
+  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample04.md"> Read More ...</a>   
+</p>
+
+
