@@ -11,5 +11,8 @@ family, children, love.
 > The word reconciliation came out clear as a big concept 
 as soon as I started talking about family. 
 And children always, or almost always, play this role within families. 
-That's how I started writing *The Chicken*, and I hope to
- revisit this short story one day. 
+
+
+<p align="center">
+  :dart: <a href="https://github.com/marybishopgit/CreativeWriting/blob/main/projTheChicken/sample.md"> Sample Page ...</a>   
+</p>
