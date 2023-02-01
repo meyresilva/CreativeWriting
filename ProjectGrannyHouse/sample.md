@@ -46,3 +46,12 @@ The small skinny woman took care of everything,
 sweeping every corner as the wind through the windows brought 
 the dust back again. 
 The old woman cleaned again, talking to herself sometimes.  
+
+<p align="center">
+  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample02.md"> Read More ...</a>   
+</p>
+
+
+
+
+
