@@ -50,5 +50,4 @@ The chicken was in his arms,
 feeling good. Gary gave the chicken back 
 to Uncle Denis and said “Thanks for coming, Grandpa.” 
 Grandpa laughed so loud, his laugh filled the house like a fresh breeze.
-Everybody laughed. Grandma hugged Gary and went to serve a delicious guava ice cream. 	
-
+Everybody laughed. 
