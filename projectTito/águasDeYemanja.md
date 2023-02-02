@@ -24,3 +24,10 @@ Minha resposta não poderia ser mais óbvia: “O que você está fazendo aí fo
 
 
 O coitado do Bino estava realmente assustado. Com aqueles olhos arregalados, mal podia pronunciar as palavras. Falando sentenças entrecortados, com  lágrimas que ameaçavam saltar dos olhos, meu amigo Bino começava a me contar sua história. Ele tinha a intuição de que a mulher com a trouxa na cabeça vinha outra vez aquela noite.
+
+“Bino, esqueça esta história dessa fulana fantasma que passa com a trouxa na cabeça, caminhando em direção ao mar. Vamos ver Sessão da Tarde. O filme está quase terminado.” 
+
+
+Estava rindo muito até perceber que Bino estava realmente preocupado. Sua cara de terror, o barulho da chuva caindo e o mar uivando, até parecia um filme de terror. Eu que nunca havia acreditado em nenhuma mulher com a trouxa na cabeça, naquele momento, comecei a ficar um tanto sobressaltado. Bino estava conseguindo tirar minha paz.
+
+
