@@ -1,6 +1,5 @@
-# CreativeWriting
 
-# The Chicken
+# # The Chicken
 
 
 > Last year, in a creative writing course, I was asked to write a short story. 
