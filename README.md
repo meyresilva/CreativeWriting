@@ -1,5 +1,7 @@
 
-# # The Chicken
+# # Creative Writing 
+
+In this repository I will share some creative work I have been doing recently, participating in creative writing courses. 
 
 
 > Last year, in a creative writing course, I was asked to write a short story. 
