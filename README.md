@@ -1,20 +1,8 @@
 
 # # Creative Writing 
 
-In this repository I will share some short stories I've been writing recently as exercises for creative wrting courses. The first creative writing course I participated in was in London, in a black community, and the teacher was Caribbean. At that time, I wrote some poems and a short story about a girl who got a stove for Christmas and got very frustrated. 
+In this repository I will share some drafts I've been writing recently as exercise for creative writing courses. The first creative writing course I participated in was in London a few years ago, in a black community, and the teacher was Caribbean. At that time, I wrote some poems and a short story about a girl who got a stove for Christmas and became frustrated. People in my classroom enjoyed the story and asked me to keep it safe and revisit one day. I promised them I would but I never revisited that story. 
 
-
-> Last year, in a creative writing course, I was asked to write a short story. 
-> It was a good exercise to try to put words on paper almost out of the blue.
- *The chicken* came out as something totally unexpected, even for me. 
-I collected some images in my memory: houses, grandparents, 
-family, children, love. 
-> The word reconciliation came out clear as a big concept 
-as soon as I started talking about family. 
-And children always, or almost always, play this role within families. 
-
-<p align="center">
-  :dart: <a href="https://github.com/meyresilva/CreativeWriting/blob/main/ProjectGrannyHouse/sample.md"> Sample Page ...</a>   
-</p>
+However, I kept taking creative writing courses, and moving from Europe to South America, and then to the United States and Europe again. Then I decided to put my experiences and emotions on paper as a form of catharsis.
 
 
