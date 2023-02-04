@@ -1,7 +1,7 @@
 
 # # Creative Writing 
 
-In this repository I will share some creative work I have been doing recently, participating in creative writing courses. 
+In this repository I will share some short stories I've been writing recently as exercises for creative wrting courses. The first creative writing course I participated in was in London, in a black community, and the teacher was Caribbean. At that time, I wrote some poems and a short story about a girl who got a stove for Christmas and got very frustrated. 
 
 
 > Last year, in a creative writing course, I was asked to write a short story. 
