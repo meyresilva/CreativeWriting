@@ -8,9 +8,9 @@ However, I kept taking creative writing courses, and moving from Europe to South
 
 I will include here some works I've been writing. They're still drafts that need some editing. 
 
-- [Proposal01](https://github.com/meyresilva/CreativeWriting/tree/main/ProjectGrannyHouse)
+- [Proposal 01](https://github.com/meyresilva/CreativeWriting/tree/main/ProjectGrannyHouse)
 
-- [Proposal02](https://github.com/meyresilva/CreativeWriting/tree/main/projectTito)
+- [Proposal 02](https://github.com/meyresilva/CreativeWriting/tree/main/projectTito)
 
 
 
