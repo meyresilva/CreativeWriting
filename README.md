@@ -1,5 +1,5 @@
 
-# # Creative Writing 
+## Creative Writing 
 
 In this repository I will share some drafts I've been writing recently as exercise for creative writing courses. The first creative writing course I participated in was in London a few years ago, in a black community, and the teacher was Caribbean. At that time, I wrote some poems and a short story about a girl who got a stove for Christmas and became frustrated. People in my classroom enjoyed the story and asked me to keep it safe and revisit one day. I promised them I would but I never revisited that story. 
 
