@@ -5,7 +5,9 @@ In this repository I will share some drafts of manuscripts I've been writing rec
 
 However, I kept taking creative writing courses, and moving from Europe to South America, and then to the United States and Europe again. Then I decided to put my experiences and emotions on paper as a form of catharsis.
 
-I will include here some projects, 
 
+I will include here some works I've been writing. They're still drafts that need some editing. 
+
+https://github.com/meyresilva/CreativeWriting/tree/main/ProjectGrannyHouse
 
 
