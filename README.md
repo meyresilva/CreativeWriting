@@ -15,9 +15,9 @@ As my child suggested I should write young adult fiction, as fantasy, adventure 
 
 
 
-- [Project 01](https://github.com/meyresilva/CreativeWriting/tree/main/ProjectGrannyHouse)
+- [Project Granny's House](https://github.com/meyresilva/CreativeWriting/tree/main/ProjectGrannyHouse)
 
-- [Project 02](https://github.com/meyresilva/CreativeWriting/tree/main/projectTito)
+- [Project Tito](https://github.com/meyresilva/CreativeWriting/tree/main/projectTito)
 
 
 
